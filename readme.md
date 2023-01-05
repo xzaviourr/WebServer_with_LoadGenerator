@@ -20,4 +20,4 @@ Project made in order to serve the requirements of course CS 744 at IIT Bombay.
     ```./load_generator <hostname> <server port> <number of concurrent users> <think time  in seconds)> <test duration (in seconds)```
 
 ## Results
-![Load Generator result](https://github.com/xzaviourr/WebServer_with_LoadGenerator/load-gen-output.png)
+![Load Generator result](https://raw.githubusercontent.com/xzaviourr/WebServer_with_LoadGenerator/master/load-gen-output.png)
